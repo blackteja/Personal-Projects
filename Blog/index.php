@@ -1,0 +1,5 @@
+<?php
+  /*
+   * Personal Blog Project
+  */
+?>
