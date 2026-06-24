@@ -14,6 +14,12 @@
   <title>CI Company Homepage</title>
 </head>
 <body>
+  <header>
+    <h2> header 영역 </h2>
+  </header>
   <h1> 홈페이지 제작이 위대한 한걸음이 될 수 있도록 힘내자! </h1>  
+  <footer>
+    <h2> Footer 영역 </h2>
+  </footer>
 </body>
 </html>
