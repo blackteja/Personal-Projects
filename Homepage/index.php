@@ -21,5 +21,10 @@
   <footer>
     <h2> Footer 영역 </h2>
   </footer>
+  <script>
+    /*
+     * Script는 여기에 작성한 뒤 js 파일로 분할
+    */
+  </script>
 </body>
 </html>
