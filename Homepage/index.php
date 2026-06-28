@@ -23,6 +23,7 @@
   <h1> 홈페이지 제작이 위대한 한걸음이 될 수 있도록 힘내자! </h1>  
   <footer>
     <h2> Footer 영역 </h2>
+    <h3> © 2026 CI Company. All rights Reserved. </h3>
   </footer>
   <script>
     /*
