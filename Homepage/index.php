@@ -16,6 +16,9 @@
 <body>
   <header>
     <h2> header 영역 </h2>
+    <navigaion>
+      <h2> Navigaion 영역은 향후 태그를 확인해서 개편 </h2>
+    </navigation>
   </header>
   <h1> 홈페이지 제작이 위대한 한걸음이 될 수 있도록 힘내자! </h1>  
   <footer>
