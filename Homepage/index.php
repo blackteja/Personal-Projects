@@ -18,6 +18,19 @@
     <h2> header 영역 </h2>
     <navigaion>
       <h2> Navigaion 영역은 향후 태그를 확인해서 개편 </h2>
+      <table>
+        <thead>
+          <th>About</th>
+          <th>Portfolio</th>
+          <th>Contact</th>
+        </thead>
+        <tbody>
+          <td>내용작성 예정</td>
+          <td>내용작성 예정</td>
+          <td>내용작성 예정</td>
+        </tbody>
+      </table>
+
     </navigation>
   </header>
   <h1> 홈페이지 제작이 위대한 한걸음이 될 수 있도록 힘내자! </h1>  
