@@ -31,6 +31,9 @@
           <td>내용작성 예정</td>
         </tbody>
       </table>
+      <sidebar>
+        <h2>사이드바 메뉴 영역도 일단은 추가</h2>
+      </sidebar>
 
     </navigation>
   </header>
