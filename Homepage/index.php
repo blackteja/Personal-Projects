@@ -39,8 +39,10 @@
 
     </navigation>
   </header>
-  <h1> 홈페이지 제작이 위대한 한걸음이 될 수 있도록 힘내자! </h1>  
-  <h2>Main Page에 대한 부분은 뭘로 작성하면 좋을까?</h2>
+  <main class="container">
+    <h1> 홈페이지 제작이 위대한 한걸음이 될 수 있도록 힘내자! </h1>  
+    <h2>Main Page에 대한 부분은 뭘로 작성하면 좋을까?</h2>
+  </main>
   <footer>
     <h2> Footer 영역 </h2>
     <h3>Help : <a href="mailto:charlie@cicompany.co.kr">charlie@cicompany.co.kr</a></h3>
