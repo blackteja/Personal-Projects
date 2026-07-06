@@ -16,7 +16,7 @@
 <body>
   <header>
     <h2> header 영역 </h2>
-    <a href="#"><img src="imgs/Logo.png"></a>
+    <a href="#"><img src="imgs/Logo.png" style="width: 50px; height: 50px;"></a>
     <navigaion>
       <h2> Navigaion 영역은 향후 태그를 확인해서 개편 </h2>
       <table>
@@ -45,6 +45,7 @@
   </main>
   <article class="container">
     <h2>article 태그를 붙였는데 사용할지는 확실하지는 않다.</h2>
+    <h3>각 콘텐츠를 어떻게 분할할지는 고민이 된다.</h3>
   </article>
   <footer>
     <h2> Footer 영역 </h2>
