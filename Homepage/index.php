@@ -16,7 +16,7 @@
 <body>
   <header>
     <h2> header 영역 </h2>
-    <a href="#"><img src="imgs/Logo.png" style="width: 50px; height: 50px;"></a>
+    <a href="index.php"><img src="imgs/Logo.png" style="width: 50px; height: 50px;"></a>
     <navigaion>
       <h2> Navigaion 영역은 향후 태그를 확인해서 개편 </h2>
       <table>
