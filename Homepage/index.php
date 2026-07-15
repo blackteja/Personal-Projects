@@ -35,6 +35,20 @@
       </table>
       <sidebar>
         <h2>사이드바 메뉴 영역도 일단은 추가</h2>
+        <table>
+          <thead>
+            <th>Main</th>
+            <th>About</th>
+            <th>Portfolio</th>
+            <th>Contact</th>
+          </thead>
+          <tbody>
+            <td>내용작성 예정</td>
+            <td>내용작성 예정</td>
+            <td>내용작성 예정</td>
+            <td>내용작성 예정</td>
+          </tbody>
+        </table>
       </sidebar>
 
     </navigation>
