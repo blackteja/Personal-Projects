@@ -43,10 +43,10 @@
             <th>Contact</th>
           </thead>
           <tbody>
-            <td>내용작성 예정</td>
-            <td>내용작성 예정</td>
-            <td>내용작성 예정</td>
-            <td>내용작성 예정</td>
+            <td>main</td>
+            <td>about</td>
+            <td>Portfolio</td>
+            <td>Contact</td>
           </tbody>
         </table>
       </sidebar>
