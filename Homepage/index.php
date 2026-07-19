@@ -63,6 +63,7 @@
   </article>
   <footer>
     <h2> Footer 영역 </h2>
+    <h3> 여기에도 사이트맵을 넣을까? </h3>
     <h3>Help : <a href="mailto:charlie@cicompany.co.kr">charlie@cicompany.co.kr</a></h3>
     <h3> © 2026 CI Company. All rights Reserved. </h3>
   </footer>
