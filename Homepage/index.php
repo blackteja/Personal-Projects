@@ -14,6 +14,7 @@
   <title>CI Company Homepage</title>
 </head>
 <body>
+  <!-- 메인은 영상이나 애니메이션으로 하고 이 페이지를 main 페이지로 바꾸는건 어떨지? -->
   <header>
     <h2> header 영역 </h2>
     <a href="index.php"><img src="imgs/Logo.png" style="width: 50px; height: 50px;"></a>
