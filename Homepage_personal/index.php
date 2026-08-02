@@ -13,7 +13,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="css/main.css">
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <title>CI Company Homepage</title>
+  <title>Personal Homepage</title>
 </head>
 <body>
   <!-- 메인은 영상이나 애니메이션으로 하고 이 페이지를 main 페이지로 바꾸는건 어떨지? -->
