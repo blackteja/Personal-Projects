@@ -59,6 +59,7 @@
   <main class="container">
     <h1> 홈페이지 제작이 위대한 한걸음이 될 수 있도록 힘내자! </h1>  
     <h2>Main Page에 대한 부분은 뭘로 작성하면 좋을까?</h2>
+    <h3> 개인 페이지로 전환하고 내 스스로 원하는 내용을 넣어보자</h3>
   </main>
   <article class="container">
     <h2>article 태그를 붙였는데 사용할지는 확실하지는 않다.</h2>
