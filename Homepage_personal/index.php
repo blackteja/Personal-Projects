@@ -58,7 +58,7 @@
   </header>
   <main class="container">
     <h1> 홈페이지 제작이 위대한 한걸음이 될 수 있도록 힘내자! </h1>  
-    <h2>Main Page에 대한 부분은 뭘로 작성하면 좋을까?</h2>
+    <h2> 메인에는 자신이 작성한 공부했던 front-end 기술을 집합한 것을 표현할 수 있도록 해보자. 주제는 역시 게임이겠지.</h2>
     <h3> 개인 페이지로 전환하고 내 스스로 원하는 내용을 넣어보자</h3>
   </main>
   <article class="container">
