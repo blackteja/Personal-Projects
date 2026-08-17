@@ -1,0 +1,5 @@
+<?php
+  /*
+   * Smart-Memo Footer
+  */
+?>
