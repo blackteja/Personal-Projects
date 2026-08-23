@@ -4,3 +4,12 @@
    * 직접 프로젝트로 만들어보려고 폴더 생성 및 index.php 파일 작성
   */
 ?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Smart Memo Project</title>
+  </head>
+  <body>
+    <h1>Smart Memo Project</h1>
+  </body>
+</html>
