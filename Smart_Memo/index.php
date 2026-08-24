@@ -8,6 +8,7 @@
 <html>
   <head>
     <title>Smart Memo Project</title>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
   </head>
   <body>
     <h1>Smart Memo Project</h1>
