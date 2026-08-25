@@ -12,5 +12,6 @@
   </head>
   <body>
     <h1>Smart Memo Project</h1>
+    <h2> 간단히 입력과 View 부터 작업</h2>
   </body>
 </html>
