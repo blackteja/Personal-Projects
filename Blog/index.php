@@ -15,5 +15,6 @@
   <body>
     <!-- 기본만 작성해 놓는다 -->
     <h1> Personal Blog Project</h1>
+    <h2> 기본은 view와 write 부터 개발</h2>
   </body>
 </html>
