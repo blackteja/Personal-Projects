@@ -64,6 +64,7 @@
   <article class="container">
     <h2>article 태그를 붙였는데 사용할지는 확실하지는 않다.</h2>
     <h3>각 콘텐츠를 어떻게 분할할지는 고민이 된다.</h3>
+    <h3> 개인 페이지는 콘텐츠를 초반에 적게 하고 갈수록 늘려간다. </h3>
   </article>
   <footer>
     <h2> Footer 영역 </h2>
