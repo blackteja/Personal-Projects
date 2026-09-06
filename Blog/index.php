@@ -17,5 +17,6 @@
     <h1> Personal Blog Project</h1>
     <h2> 기본은 view와 write 부터 개발</h2>
     <h3> Tistory Blog도 같이 수정해보면 괜찮을 듯</h3>
+    <h4> 기본은 HTML과 CSS를 사용하여 디자인을 해보자</h4>
   </body>
 </html>
