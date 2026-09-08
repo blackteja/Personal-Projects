@@ -18,5 +18,6 @@
     <h2> 기본은 view와 write 부터 개발</h2>
     <h3> Tistory Blog도 같이 수정해보면 괜찮을 듯</h3>
     <h4> 기본은 HTML과 CSS를 사용하여 디자인을 해보자</h4>
+    <h4> 각 프로젝트별 기획서와 Readme.Md 파일을 만들어보자</h4>
   </body>
 </html>
