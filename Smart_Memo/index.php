@@ -11,9 +11,10 @@
     <link rel="stylesheet" type="text/css" href="css/main.css">
   </head>
   <body>
-    <h1>Smart Memo Project</h1>
+    <h1> Smart Memo Project</h1>
     <h2> 간단히 입력과 View 부터 작업</h2>
     <h3> 기본적인 기능은 메모장이고 처음은 파일로 저장하도록 만들자.</h3>
     <h4> 노션같은 형태로 만들자. </h4>
+    <h5> 슬슬 기획서를 만들고 개발을 시작해보자.</h5>
   </body>
 </html>
