@@ -19,6 +19,7 @@
   <!-- 메인은 영상이나 애니메이션으로 하고 이 페이지를 main 페이지로 바꾸는건 어떨지? -->
   <header>
     <h2> header 영역 </h2>
+    <h3> 개인 페이지는 header도 간단히 만들자</h3>
     <a href="index.php"><img src="imgs/Logo.png" style="width: 50px; height: 50px;"></a>
     <navigaion>
       <h2> Navigaion 영역은 향후 태그를 확인해서 개편 </h2>
