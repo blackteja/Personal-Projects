@@ -74,6 +74,7 @@
     <h2> Footer 영역 </h2>
     <h2> 개인 페이지는 카피라이트를 어떻게 넣을지 고민해보자</h2>
     <h3> 여기에도 사이트맵을 넣을까? </h3>
+    <h3> 개인 페이지는 footer를 간단히 작성하자</h3>
     <h3>Help : <a href="mailto:charlie@cicompany.co.kr">charlie@cicompany.co.kr</a></h3>
     <h3> © 2026 CI Company. All rights Reserved. </h3>
   </footer>
